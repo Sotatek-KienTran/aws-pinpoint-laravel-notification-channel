@@ -1,5 +1,5 @@
 {
-    "name": "kielabokkie/aws-pinpoint-laravel-notification-channel-fork-support-laravel-9",
+    "name": "kientran/aws-pinpoint-laravel-notification-channel-fork-support-laravel-9",
     "description": "Send notifications using AWS Pinpoint",
     "homepage": "https://github.com/Sotatek-KienTran/aws-pinpoint-laravel-notification-channel",
     "license": "MIT",
